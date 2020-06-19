@@ -56,7 +56,7 @@
 
 ### from the first step you can observe this line of code
 
-# <item android:drawable="@color/splashBackground"/>
+     <item android:drawable="@color/splashBackground"/>
 
 ## all you have to do is goto this folder
 
