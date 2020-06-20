@@ -1,5 +1,10 @@
 package com.applauncher;
 
+import android.graphics.drawable.Drawable;
+import androidx.core.content.ContextCompat;
+import android.widget.LinearLayout;
+import android.os.Bundle;
+
 import com.reactnativenavigation.NavigationActivity;
 
 public class MainActivity extends NavigationActivity {
